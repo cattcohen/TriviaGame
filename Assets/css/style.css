@@ -1,0 +1,87 @@
+/*general*/
+#twd-jumbo {
+    background: url("../images/alive.jpg");
+}
+
+
+#heading {
+    font-weight: bold;
+    color:orangered;
+    text-align: center;
+    font-family: cursive;
+}
+
+.radio {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color: olive
+}
+ 
+#time-left {
+    background: url("../images/tiny.jpg");
+    color: #1167B1;
+
+}
+
+#submit {
+    color:orangered;
+    font-weight: bold;
+    font-family: cursive;
+   vertical-align: middle;
+}
+
+
+
+#submit-div {
+    color:orangered;
+    background: url("../images/alive.jpg");
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 15px;
+    display: flex; justify-content: center;
+}
+
+#submit-div .wrapper {
+    text-align: center;
+}
+
+
+
+
+.questionX {
+    font-size: 30px;
+}
+
+
+
+#content {
+    color: olive;
+}
+
+
+
+#start-button {
+    color:orangered;
+    background: url("../images/alive.jpg");
+    font-weight: bold;
+    font-family: cursive;
+}
+/*footer*/
+.footer {
+    text-align: center;
+    color:green;
+}
+
+/*form*/
+.twd-opt {
+    margin-right: 15px;
+
+    
+}
+
+
+.h6 {
+    font-size: 30px;
+}
+
+
